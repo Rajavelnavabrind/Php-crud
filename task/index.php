@@ -27,7 +27,7 @@
       <div class="container ">
          <div class="row " >
             <div class="col-md-12 crud">
-               <h2>REGISTER DATA</h2>
+               <h2>CUSTOMER DATA</h2>
             </div>
             <div class="col-md-12 text-center  rightcrud"  >
                <h2>TABLE</h2>
